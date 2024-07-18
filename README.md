@@ -13,7 +13,12 @@ Geodjango project parctice for PKP aunty pita. 2024
  sudo apt install python3-virtualenv
 
  #create virtual env folder
- virtualenv <nama folder env> atau python3 -m venv <nama folder> (jika menggunakan python3)
+ virtualenv <nama folder env> atau python -m venv <nama folder> 
+
+ #enable virtual env
+ source <nama folder env>/bin/activate
+
+
 
 
 
