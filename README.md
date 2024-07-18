@@ -41,7 +41,7 @@ python manage.py runserver <ip public : port>
 #note : use ip public if you want open in another computer browser
 ```
 
-for more just read documentation of django (https://docs.djangoproject.com/en/5.0/)
+for more just read [documentation of django](https://docs.djangoproject.com/en/5.0/)
 
 
 
