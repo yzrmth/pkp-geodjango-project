@@ -4,12 +4,10 @@ Geodjango project parctice for PKP aunty pita. 2024
 
 # Daftar Isi
 - [Installation](#installation)
-    - [Create Virtual Enviroment for Django](#create-virtual-enviroment-for-django)
-    - [Install pip](#install-pip)
 
 ## Installation
 
-### Create Virtual Enviroment for Django
+Create Virtual Enviroment for Django
  ```terminal
  #to install virtual enviroment for python
  sudo apt install python-virtualenv
@@ -43,7 +41,7 @@ python manage.py runserver <ip public : port>
 #note : use ip public if you want open in another computer browser
 ```
 
-
+for more just read documentation of django (https://docs.djangoproject.com/en/5.0/)
 
 
 
