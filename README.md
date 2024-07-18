@@ -21,19 +21,19 @@ Geodjango project parctice for PKP aunty pita. 2024
  source <nama folder env>/bin/activate
 ```
 
- ### Install pip
+ Install pip
  ```bash
  sudo apt install python-pip
  ```
 
- ### Install django project
+ Install django project
  ```bash
  #install django
  pip install django
  #check django installation
  python -m django --version
  ```
-### Membuat Project Django
+Membuat Project Django
 ```bash
 django-admin startproject <nama project>
 ```
