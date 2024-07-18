@@ -4,6 +4,8 @@ Geodjango project parctice for PKP aunty pita. 2024
 
 # Daftar Isi
 - [Installation](#installation)
+    - [Create Virtual Enviroment for Django](#create-virtual-enviroment-for-django)
+    - [Install pip](#install-pip)
 
 ## Installation
 
@@ -17,6 +19,7 @@ Geodjango project parctice for PKP aunty pita. 2024
 
  #enable virtual env
  source <nama folder env>/bin/activate
+```
 
  ### Install pip
  ```bash
