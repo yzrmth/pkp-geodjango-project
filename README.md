@@ -18,6 +18,12 @@ Geodjango project parctice for PKP aunty pita. 2024
  #enable virtual env
  source <nama folder env>/bin/activate
 
+ ### Install pip
+ ```bash
+ sudo apt install python-pip
+
+
+
 
 
 
